@@ -1,0 +1,2 @@
+C:/Users/anike/Desktop/Python/Rubik'sCubeSolver/yolo/yolov3RubiksCube/darknet/Dataset/images/IMG-20200215-WA0012.jpg
+C:/Users/anike/Desktop/Python/Rubik'sCubeSolver/yolo/yolov3RubiksCube/darknet/Dataset/images/IMG-20200215-WA0025.jpg
